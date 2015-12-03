@@ -1,3 +1,3 @@
 # git_submodule_child
 
-mod in parent subtree
+mod in parent submodule
