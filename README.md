@@ -1,3 +1,4 @@
 # git_submodule_child
 
-mod in parent submodule
+mod in parent submodule 
+update child
